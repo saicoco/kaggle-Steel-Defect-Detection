@@ -1,0 +1,18 @@
+{
+  "id": "jiageng/mxnet-gluon-inference",
+  "id_no": 5840246,
+  "title": "mxnet-gluon-inference",
+  "code_file": "mxnet-gluon-inference.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [],
+  "kernel_sources": [
+    "jiageng/mxnet-gluon-baseline"
+  ],
+  "competition_sources": [
+    "severstal-steel-defect-detection"
+  ]
+}

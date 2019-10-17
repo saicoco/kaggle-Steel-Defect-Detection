@@ -1,0 +1,17 @@
+{
+  "id": "jiageng/mxnet-gluon-baseline",
+  "id_no": 5837123,
+  "title": "mxnet-gluon-baseline",
+  "code_file": "mxnet-gluon-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "severstal-steel-defect-detection"
+  ]
+}
